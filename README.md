@@ -2,7 +2,7 @@
 
 The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes. Visualized their earthquake data
 
-### Level 1: Basic Visualization
+## Visualization
 
 ![2-BasicMap](Images/2-BasicMap.png)
 
