@@ -35,5 +35,5 @@ The USGS is responsible for providing scientific data about natural hazards, the
 
 * Added layer controls to the map.
 
-- - -
+- - -- - -
 
